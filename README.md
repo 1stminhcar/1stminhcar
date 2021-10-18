@@ -65,7 +65,7 @@ Recent Commmit:
 5.
 <!--END_SECTION:activity-->
 
-##Visitor:![visitors](https://visitor-badge.glitch.me/badge?page_id=1stminhcar.1stminhcar&left_color=black&right_color=black)
+## Visitor:![visitors](https://visitor-badge.glitch.me/badge?page_id=1stminhcar.1stminhcar&left_color=black&right_color=black)
 
 ---
 ## Minigame Corner:

@@ -72,13 +72,13 @@ Recent Commmit:
 # ROLL FOR INITIATIVE
 ### CHOOSE YOUR CLASS
 
-[Warrior | +1 To Roll](https://github.com/benjaminsampica/benjaminsampica/issues/new?title=roll%7Cwarrior&body=Just+click+%27Submit+new+issue%27.)
+[Warrior | +1 To Roll](https://github.com/1stminhcar/1stminhcar/issues/new?title=roll%7Cwarrior&body=Just+click+%27Submit+new+issue%27.)
 
-[Cleric | +1 To Roll](https://github.com/benjaminsampica/benjaminsampica/issues/new?title=roll%7Ccleric&body=Just+click+%27Submit+new+issue%27.)
+[Cleric | +1 To Roll](https://github.com/1stminhcar/1stminhcar/issues/new?title=roll%7Ccleric&body=Just+click+%27Submit+new+issue%27.)
 
-[Rogue | +3 To Roll](https://github.com/benjaminsampica/benjaminsampica/issues/new?title=roll%7Crogue&body=Just+click+%27Submit+new+issue%27.)
+[Rogue | +3 To Roll](https://github.com/1stminhcar/1stminhcar/issues/new?title=roll%7Crogue&body=Just+click+%27Submit+new+issue%27.)
 
-[Wizard | -1 To Roll](https://github.com/benjaminsampica/benjaminsampica/issues/new?title=roll%7Cwizard&body=Just+click+%27Submit+new+issue%27.)
+[Wizard | -1 To Roll](https://github.com/1stminhcar/1stminhcar/issues/new?title=roll%7Cwizard&body=Just+click+%27Submit+new+issue%27.)
 ### LAST ROLL BY
 [WanderingMind3](https://www.github.com/WanderingMind3) - as a wizard rolled a 7!
 

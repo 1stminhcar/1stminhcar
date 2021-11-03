@@ -64,11 +64,11 @@
 ---
 Recent Commmit:
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/Simpleboy353/REAPER-2.0/issues/98) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
-2. ❗️ Opened issue [#98](https://github.com/Simpleboy353/REAPER-2.0/issues/98) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
-3. 💪 Opened PR [#96](https://github.com/Simpleboy353/REAPER-2.0/pull/96) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
-4. 🗣 Commented on [#15](https://github.com/Simpleboy353/REAPER-2.0/issues/15) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
-5. 💪 Opened PR [#93](https://github.com/Simpleboy353/REAPER-2.0/pull/93) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+1. 💪 Opened PR [#103](https://github.com/Simpleboy353/REAPER-2.0/pull/103) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+2. 🗣 Commented on [#98](https://github.com/Simpleboy353/REAPER-2.0/issues/98) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+3. ❗️ Opened issue [#98](https://github.com/Simpleboy353/REAPER-2.0/issues/98) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+4. 💪 Opened PR [#96](https://github.com/Simpleboy353/REAPER-2.0/pull/96) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+5. 🗣 Commented on [#15](https://github.com/Simpleboy353/REAPER-2.0/issues/15) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 5.
 <!--END_SECTION:activity-->
 

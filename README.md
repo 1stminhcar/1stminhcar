@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm learning to be a Discord Bot Developer
+## I'm learning to be a Discord Bot Developer And also a Roblox game dev
 
 - 🌱 I am new in Discord.JS:)
 - 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://discord.com/api/oauth2/authorize?client_id=892340813906968587&permissions=0&redirect_uri=https%3A%2F%2Fwebsite-for-my-bot.herokuapp.com%2Fapi%2Fv1%2Fauth&scope=bot%20applications.commands)

@@ -69,10 +69,9 @@ Recent Commmit:
 3. 💪 Opened PR [#104](https://github.com/Simpleboy353/REAPER-2.0/pull/104) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 4. 💪 Opened PR [#103](https://github.com/Simpleboy353/REAPER-2.0/pull/103) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 5. 🗣 Commented on [#98](https://github.com/Simpleboy353/REAPER-2.0/issues/98) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
-5.
 <!--END_SECTION:activity-->
 
-## Visitor:![visitors](https://visitor-badge.glitch.me/badge?page_id=1stminhcar.1stminhcar&left_color=black&right_color=black)
+## [visited time](https://visitor-badge.glitch.me/badge?page_id=1stminhcar.1stminhcar&left_color=black&right_color=black)
 
 ---
 ## Minigame Corner:

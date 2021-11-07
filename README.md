@@ -5,7 +5,7 @@
 ## I'm learning to be a Discord Bot Developer And also a Roblox game dev
 
 - 🌱 I am new in Discord.JS:)
-- 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://discord.com/api/oauth2/authorize?client_id=892340813906968587&permissions=0&redirect_uri=https%3A%2F%2Fwebsite-for-my-bot.herokuapp.com%2Fapi%2Fv1%2Fauth&scope=bot%20applications.commands)
+- 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://discord.com/api/oauth2/authorize?client_id=892340813906968587&permissions=8&redirect_uri=https%3A%2F%2Fbotdashboard.minhducgaming.ihostfull.com%2Fthanks&scope=bot%20applications.commands)
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/470047132670361610)
 - 😄 Pronouns: He/Him
 

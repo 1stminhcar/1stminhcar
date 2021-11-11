@@ -74,7 +74,7 @@ rollDatabaseText = setDatabaseValue(rollDatabaseText, `-${roll}-`, newRollValue)
 
 const user = core.getInput('user');
 let readMeText =
-    "# ROLL FOR INITIATIVE\n" +
+    "# Hi there, I'm NotMinhDucGamingTV <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />" +"<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />\n" + "## I'm learning to be a Discord Bot Developer And also a Roblox game dev\n"+ "- 🌱 I am new in Discord.JS:)\n"+ "- 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://discord.com/api/oauth2/authorize?client_id=892340813906968587&permissions=8&redirect_uri=https%3A%2F%2Fbotdashboard.minhducgaming.ihostfull.com%2Fthanks&scope=bot%20applications.commands)\n"+"- 📫 What is the best way to contact me? [Discord](https://discord.com/users/470047132670361610)\n" + "- 😄 Pronouns: He/Him\n\n" + "[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1stminhcar)\n"+"[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YpbvvR9SX8)\n"
     "### CHOOSE YOUR CLASS\n" +
     `\n[Warrior | +1 To Roll](${createClassLink("warrior")})\n` +
     `\n[Cleric | +1 To Roll](${createClassLink("cleric")})\n` +

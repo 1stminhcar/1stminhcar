@@ -71,8 +71,6 @@ Recent Commmit:
 5. 🗣 Commented on [#15](https://github.com/Simpleboy353/REAPER-2.0/issues/15) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 <!--END_SECTION:activity-->
 
-## [visited time](https://visitor-badge.glitch.me/badge?page_id=1stminhcar.1stminhcar&left_color=black&right_color=black)
-
 ---
 ## Minigame Corner:
 Roll:[link](https://github.com/benjaminsampica/benjaminsampica)

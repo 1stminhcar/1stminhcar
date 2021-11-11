@@ -64,11 +64,11 @@
 ---
 Recent Commmit:
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#112](https://github.com/Simpleboy353/REAPER-2.0/issues/112) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
-2. 🗣 Commented on [#107](https://github.com/Simpleboy353/REAPER-2.0/issues/107) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
-3. 🗣 Commented on [#15](https://github.com/Simpleboy353/REAPER-2.0/issues/15) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
-4. 💪 Opened PR [#3](https://github.com/pgamerx/djs-tickets/pull/3) in [pgamerx/djs-tickets](https://github.com/pgamerx/djs-tickets)
-5. 💪 Opened PR [#105](https://github.com/Simpleboy353/REAPER-2.0/pull/105) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+1. 🗣 Commented on [#112](https://github.com/Simpleboy353/REAPER-2.0/issues/112) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+2. 🗣 Commented on [#112](https://github.com/Simpleboy353/REAPER-2.0/issues/112) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+3. ❗️ Opened issue [#112](https://github.com/Simpleboy353/REAPER-2.0/issues/112) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+4. 🗣 Commented on [#107](https://github.com/Simpleboy353/REAPER-2.0/issues/107) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+5. 🗣 Commented on [#15](https://github.com/Simpleboy353/REAPER-2.0/issues/15) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 <!--END_SECTION:activity-->
 
 ## [visited time](https://visitor-badge.glitch.me/badge?page_id=1stminhcar.1stminhcar&left_color=black&right_color=black)

@@ -72,6 +72,7 @@ Recent Commmit:
 <!--END_SECTION:activity-->
 ---
 ## Activity
-# ⚽ Activity
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/470047132670361610)](https://discord.com/users/470047132670361610)
+
 <img src="https://imgur.com/rilHVxA.png"/> 

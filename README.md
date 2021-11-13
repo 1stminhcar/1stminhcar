@@ -64,11 +64,11 @@
 ---
 Recent Commmit:
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/1stminhcar/1stminhcar/issues/3) in [1stminhcar/1stminhcar](https://github.com/1stminhcar/1stminhcar)
-2. ❗️ Opened issue [#2](https://github.com/1stminhcar/1stminhcar/issues/2) in [1stminhcar/1stminhcar](https://github.com/1stminhcar/1stminhcar)
-3. ❗️ Opened issue [#1166](https://github.com/benjaminsampica/benjaminsampica/issues/1166) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-4. ❗️ Opened issue [#1165](https://github.com/benjaminsampica/benjaminsampica/issues/1165) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. 🗣 Commented on [#112](https://github.com/Simpleboy353/REAPER-2.0/issues/112) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+1. 💪 Opened PR [#471](https://github.com/Androz2091/scratch-for-discord/pull/471) in [Androz2091/scratch-for-discord](https://github.com/Androz2091/scratch-for-discord)
+2. ❗️ Opened issue [#3](https://github.com/1stminhcar/1stminhcar/issues/3) in [1stminhcar/1stminhcar](https://github.com/1stminhcar/1stminhcar)
+3. ❗️ Opened issue [#2](https://github.com/1stminhcar/1stminhcar/issues/2) in [1stminhcar/1stminhcar](https://github.com/1stminhcar/1stminhcar)
+4. ❗️ Opened issue [#1166](https://github.com/benjaminsampica/benjaminsampica/issues/1166) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+5. ❗️ Opened issue [#1165](https://github.com/benjaminsampica/benjaminsampica/issues/1165) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 <img src="https://imgur.com/rilHVxA.png"/> 

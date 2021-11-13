@@ -70,9 +70,5 @@ Recent Commmit:
 4. ❗️ Opened issue [#1165](https://github.com/benjaminsampica/benjaminsampica/issues/1165) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 5. 🗣 Commented on [#112](https://github.com/Simpleboy353/REAPER-2.0/issues/112) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 <!--END_SECTION:activity-->
----
-## Activity
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/470047132670361610)](https://discord.com/users/470047132670361610)
 
 <img src="https://imgur.com/rilHVxA.png"/> 

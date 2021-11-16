@@ -64,11 +64,11 @@
 ---
 Recent Commmit:
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/Androz2091/discord-temp-channels/issues/31) in [Androz2091/discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)
-2. 🗣 Commented on [#121](https://github.com/Simpleboy353/REAPER-2.0/issues/121) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
-3. 🗣 Commented on [#31](https://github.com/Androz2091/discord-temp-channels/issues/31) in [Androz2091/discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)
-4. 💪 Opened PR [#471](https://github.com/Androz2091/scratch-for-discord/pull/471) in [Androz2091/scratch-for-discord](https://github.com/Androz2091/scratch-for-discord)
-5. ❗️ Opened issue [#3](https://github.com/1stminhcar/1stminhcar/issues/3) in [1stminhcar/1stminhcar](https://github.com/1stminhcar/1stminhcar)
+1. ❌ Closed PR [#471](https://github.com/Androz2091/scratch-for-discord/pull/471) in [Androz2091/scratch-for-discord](https://github.com/Androz2091/scratch-for-discord)
+2. 🗣 Commented on [#31](https://github.com/Androz2091/discord-temp-channels/issues/31) in [Androz2091/discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)
+3. 🗣 Commented on [#121](https://github.com/Simpleboy353/REAPER-2.0/issues/121) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+4. 🗣 Commented on [#31](https://github.com/Androz2091/discord-temp-channels/issues/31) in [Androz2091/discord-temp-channels](https://github.com/Androz2091/discord-temp-channels)
+5. 💪 Opened PR [#471](https://github.com/Androz2091/scratch-for-discord/pull/471) in [Androz2091/scratch-for-discord](https://github.com/Androz2091/scratch-for-discord)
 <!--END_SECTION:activity-->
 
 <img src="https://imgur.com/rilHVxA.png"/> 

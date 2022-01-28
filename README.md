@@ -8,6 +8,7 @@
 - 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://discord.com/api/oauth2/authorize?client_id=892340813906968587&permissions=8&redirect_uri=https%3A%2F%2Fbotdashboard.minhducgaming.ihostfull.com%2Fthanks&scope=bot%20applications.commands)
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/470047132670361610)
 - 😄 Pronouns: He/Him
+- Subscribe for me one my Youtube channel: [Youtube](https://www.youtube.com/channel/UCIJ_fF_r5hBZ2fOxmHkaMTw)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1stminhcar)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YpbvvR9SX8)

@@ -65,8 +65,8 @@
 ---
 Recent Commmit:
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/Simpleboy353/REAPER-2.0/issues/131) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
-2. 💪 Opened PR [#14](https://github.com/shadowplay1/discord-economy-super/pull/14) in [shadowplay1/discord-economy-super](https://github.com/shadowplay1/discord-economy-super)
+1. 🗣 Commented on [#170](https://github.com/Simpleboy353/REAPER-2.0/issues/170) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
+2. 🗣 Commented on [#131](https://github.com/Simpleboy353/REAPER-2.0/issues/131) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 3. 🗣 Commented on [#132](https://github.com/Simpleboy353/REAPER-2.0/issues/132) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 4. 🗣 Commented on [#130](https://github.com/Simpleboy353/REAPER-2.0/issues/130) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 5. 💪 Opened PR [#130](https://github.com/Simpleboy353/REAPER-2.0/pull/130) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)

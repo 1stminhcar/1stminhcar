@@ -55,8 +55,8 @@
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 ### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=1stminhcar&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-![Simpleboy353's GitHub stats](https://github-readme-stats.vercel.app/api?username=1stminhcar&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1stminhcar&theme=chalk&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+![NotMinhDucGamingTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=1stminhcar&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1stminhcar)](https://github.com/anuraghazra/github-readme-stats)
 
 ---

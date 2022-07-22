@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 - Subscribe for me one my Youtube channel: [Youtube](https://www.youtube.com/channel/UCIJ_fF_r5hBZ2fOxmHkaMTw)
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1stminhcar)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotMinhDucGamingTV)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YpbvvR9SX8)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Unlikely-Agent)
 
@@ -55,13 +55,13 @@
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 ### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=1stminhcar&theme=monokai&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-![NotMinhDucGamingTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=1stminhcar&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1stminhcar)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NotMinhDucGamingTV&theme=monokai&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+![NotMinhDucGamingTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotMinhDucGamingTV&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotMinhDucGamingTV)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Statistic
-![Metrics](https://metrics.lecoq.io/1stminhcar?template=classic&config.timezone=Asia%2FHo_Chi_Minh)
+![Metrics](https://metrics.lecoq.io/NotMinhDucGamingTV?template=classic&config.timezone=Asia%2FHo_Chi_Minh)
 ---
 Recent Commmit:
   <!--START_SECTION:activity-->

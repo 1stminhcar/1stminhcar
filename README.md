@@ -5,10 +5,10 @@
 ## I'm learning to be a Discord Bot Developer And also a Roblox game dev
 
 - 🌱 I am new in Discord.JS:)
-- 🏆 2023 Goals:Upgrade my [discord bot!](https://www.notminhducgamingtv.tk/bot)
+- 🏆 2023 Goals:Upgrade my [discord bot!](https://www.notminhducgamingtv.tk/bot) 
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/470047132670361610)
 - 😄 Pronouns: He/Him
-- Subscribe for me one my Youtube channel: [Youtube](https://www.notminhducgamingtv.tk/Youtube)
+- Subscribe to my Youtube channel: [Youtube](https://www.notminhducgamingtv.tk/Youtube)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotMinhDucGamingTV)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YpbvvR9SX8)
@@ -71,5 +71,8 @@ Recent Commmit:
 4. 🗣 Commented on [#130](https://github.com/Simpleboy353/REAPER-2.0/issues/130) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 5. 💪 Opened PR [#130](https://github.com/Simpleboy353/REAPER-2.0/pull/130) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 <!--END_SECTION:activity-->
+---
+My Discord Bot:
+[![Bots for Discord](https://discords.com/bots/api/bot/892340813906968587/widget)](https://discords.com/bots/bots/892340813906968587)
 
 <img src="https://imgur.com/rilHVxA.png"/> 

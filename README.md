@@ -72,7 +72,7 @@ Recent Commmit:
 5. 💪 Opened PR [#130](https://github.com/Simpleboy353/REAPER-2.0/pull/130) in [Simpleboy353/REAPER-2.0](https://github.com/Simpleboy353/REAPER-2.0)
 <!--END_SECTION:activity-->
 ---
-##My Discord Bot:
+## My Discord Bot:
 
 [![Bots for Discord](https://discords.com/bots/api/bot/892340813906968587/widget)](https://discords.com/bots/bots/892340813906968587)
 
